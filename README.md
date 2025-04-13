@@ -14,7 +14,7 @@ book, bottle, car, cat, chair, computermouse, cup, dog, flower, fork, glass, gla
 
 ## Project Structure
 
-├── architecture.py # Contains the MyCNN class ├── training.py # Training loop with loss, optimizer, scheduler ├── dataset.py # ImageDataset class with preprocessing pipeline ├─ README.md # Project description
+├── architecture.py # Contains the MyCNN class ├── training.py # Training loop with loss, optimizer, scheduler ├── dataset.py # ImageDataset class with preprocessing pipeline ├── model.pth # Trained model weights (via Git LFS) └── README.md # Project description
 
 Final test accuracy: 75,44 %
 Model evaluated using a hidden test set via the official JKU Challenge Server.
